@@ -15,7 +15,7 @@
 
 - Provided the electronics for the very first cement house 3D printer in the USA in 2013 [<sup>1</sup>](https://hackaday.com/2014/05/29/man-builds-concrete-3d-printer-in-his-garage/) [<sup>2</sup>](http://web.archive.org/web/20170328064604/http://americankabuki.blogspot.com/2014/09/minnesotan-man-builds-worlds-first-3d.html)
 
-<img alt="Cement 3D printer drivers" width=500 src="https://github.com/user-attachments/assets/a6195d92-6e6a-486f-bc16-8013e1b4a43c"> <img alt="Andrey3DCementCastle" src="https://github.com/user-attachments/assets/a8e1144f-eec2-4d65-8c2c-cb8793ccc69d">
+<img alt="Cement 3D printer drivers" width="49%" src="https://github.com/user-attachments/assets/a6195d92-6e6a-486f-bc16-8013e1b4a43c"> <img alt="Andrey3DCementCastle" width="44%" src="https://github.com/user-attachments/assets/a8e1144f-eec2-4d65-8c2c-cb8793ccc69d">
 
 Then Alex Le Roux and his team at VestPrint purchased the same electronics and managed to get purchased by Icon forming Icon Builds which does most of the house printing you see today. Proud to have gotten them started. 
 
