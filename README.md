@@ -1,8 +1,8 @@
 ## Old White Dude shakes... robots
-<img src="https://github.com/user-attachments/assets/d242d32d-b189-4461-b1af-563d1ef8f886" height=300>
 
-- Loves to collaborate
+- Loves to collaborate.
 - Many years experience in making things move.
+- Has been VERY lucky to be involved with brilliant people (and learn all their secrets 🤫)
 
 ### In-Work
 
