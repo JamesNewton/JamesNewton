@@ -1,6 +1,6 @@
 ## Robotics Firmware Engineer
 
-- Loves to collaborate.
+- Loves to collaborate. email JamesNewton at MassMind.org
 - Many years experience in making things move.
 - Has been VERY lucky to be involved with brilliant people (and learn all their secrets 🤫)
 - Currently available for work, please check my <a href="https://docs.google.com/document/d/19SGMbVQtF7QBo8nATcOUQLo_2o9t4nHPgO0AcBHvORA/edit?usp=sharing">resume</a>.
